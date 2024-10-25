@@ -1,8 +1,0 @@
-TWILIO_ACCOUNT_SID=AC1763d138abdb343bcf039aea79e61f55
-TWILIO_AUTH_TOKEN=80fba51f326dfa62750ff1dea4fc351e
-TWILIO_PHONE_NUMBER=whatsapp:+14155238886  # Twilio's WhatsApp sandbox number
-MONGO_URI=mongodb://localhost:27017/whatsappBot
-ngrok config add-authtoken 2nqjDn0zb7TMJrkIPVB1IIAS6iW_27JRLNUb2YHMXHaffxuaZ
-ngrok http 3000
-
-
